@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "266643763563",
+    "firebase_url": "https://fir-demokotlin.firebaseio.com",
+    "project_id": "fir-demokotlin",
+    "storage_bucket": "fir-demokotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266643763563:android:dc255fbae972ad5b",
+        "android_client_info": {
+          "package_name": "com.example.engn.firebasedemokotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266643763563-tkfsda31jsn4ae4livl8ibfkcim38bia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeqlVvdUSHvXS_SyvG51ZbzqakwjquugU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266643763563:android:cc648649480ea33d",
+        "android_client_info": {
+          "package_name": "com.example.engn.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266643763563-tkfsda31jsn4ae4livl8ibfkcim38bia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeqlVvdUSHvXS_SyvG51ZbzqakwjquugU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
